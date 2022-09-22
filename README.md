@@ -24,7 +24,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 
 ## Print Settings
 
-Click [Here]([https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Infill%20Config.md](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Infill%20Config.md) for the print setting
+Click [Here](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Infill%20Config.md](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Infill%20Config.md) for the print setting
 
 
 ## My Print Choice

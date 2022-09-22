@@ -30,7 +30,7 @@
     <th>Spool_Holder_Base</th>
     <th>0.30mm DRAFT</th>
     <th>Yes</th>
-    <th>2</th>
+    <th>3</th>
     <th>Grid</th>
     <th>20%</th>
     <th>None</th>
@@ -48,7 +48,7 @@
     <th>Spool_Holder_Filament_Guide</th>
     <th>0.30mm DRAFT</th>
     <th>None</th>
-    <th>2</th>
+    <th>3</th>
     <th>Grid</th>
     <th>20%</th>
     <th>None</th>
@@ -63,16 +63,7 @@
     <th>None</th>
   </tr>
     <tr>
-    <th>Spool_Holder_Left_Slider</th>
-    <th>0.30mm DRAFT</th>
-    <th>None</th>
-    <th>3</th>
-    <th>Grid</th>
-    <th>20%</th>
-    <th>None</th>
-  </tr>
-    <tr>
-    <th>Spool_Holder_Right_Slider</th>
+    <th>Spool_Holder_Left_&_Right_Sliders</th>
     <th>0.30mm DRAFT</th>
     <th>None</th>
     <th>3</th>

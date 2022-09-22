@@ -65,14 +65,14 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 
 ## My Print Choice
 
-I decided to print mine in pla, mainly because it's cheaper and easier to print with pla and doesn't have a big risk of warpage if you print without a heat chamber. For my spool holder I decided to use black and white pla as it will match my Prusa printer, but you can choose what ever color you'd like.
+I decided to print mine in PLA, mainly because it's cheaper and easy to print, and doesn't have a big risk of warpage if you print without a heat chamber. For my spool holder I decided to use black and white PLA as it will match my Prusa printer, but you can choose what ever color you'd like.
 
 ## Infill Config
 
-The infill config I chose for my spool holder was 20% infill. For some people they have difficulty choosing the settings so i took the liberty and made a chart with all the necessary info for you to print the spool holder. If you follow the settings I provided correctly, you should have no problem printing and assembling it later.
+The infill config I chose for my spool holder was 20% infill. For some people they have difficulty choosing the settings so I took the liberty and made a chart with all the necessary info for you to print the spool holder. If you follow the settings I provided correctly, you should have no problem printing and assembling it later.
 (NOTE: DO NOT MESS WITH THE PARTS ORIENTATION WHEN YOU LOAD THE STL FILES INTO PRUSASLICER!)
 
-Click [Here](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Infill%20Config.md) for the Infill config.
+Click [Here]([https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Infill%20Config.md](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Infill%20Config.md)) for the Infill config.
 
 ## Assembling Of Spool Holder
 

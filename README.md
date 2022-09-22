@@ -30,9 +30,9 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 
 I decided to print mine in PLA, mainly because it's cheaper and easy to print, and doesn't have a big risk of warpage if you print without a heat chamber. For my spool holder I decided to use black and white PLA as it will match my Prusa printer, but you can choose what ever color you'd like.
 
-## Infill Config
+## Infill & Resolution Settings
 
-The infill config I chose for my spool holder was 20% infill. For some people they have difficulty choosing the settings so I took the liberty and made a chart with all the necessary info for you to print the spool holder. If you follow the settings I provided correctly, you should have no problem printing and assembling it later.
+The Infill & Resolution Settings I chose for my spool holder was 20% infill. For some people they have difficulty choosing the settings so I took the liberty and made a chart with all the necessary info for you to print the spool holder. If you follow the settings I provided correctly, you should have no problem printing and assembling it later.
 (NOTE: DO NOT MESS WITH THE PARTS ORIENTATION WHEN YOU LOAD THE STL FILES INTO PRUSASLICER!)
 
 [Click here for the infill config.](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Infill%20Config.md)

@@ -1,4 +1,4 @@
-# Adjustable spool holder for Prusa I3
+# Prusa I3 Adjustable Spool Holder (Auto Centering)
 
 ![alt text](https://github.com/ProgramFreakHD/spool-holder/blob/main/Pictures/Fusion%20360%20Pictures/Transparant%20Background/Fusion360_EPcU3aeQii.png)
 

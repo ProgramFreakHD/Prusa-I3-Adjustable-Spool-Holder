@@ -24,7 +24,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 
 ## Print Settings
 
-Click [Here]([https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Infill%20Config.md](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Infill%20Config.md)) for the print setting
+Click [Here]([https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Infill%20Config.md](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Infill%20Config.md) for the print setting
 
 
 ## My Print Choice
@@ -36,7 +36,7 @@ I decided to print mine in PLA, mainly because it's cheaper and easy to print, a
 The infill config I chose for my spool holder was 20% infill. For some people they have difficulty choosing the settings so I took the liberty and made a chart with all the necessary info for you to print the spool holder. If you follow the settings I provided correctly, you should have no problem printing and assembling it later.
 (NOTE: DO NOT MESS WITH THE PARTS ORIENTATION WHEN YOU LOAD THE STL FILES INTO PRUSASLICER!)
 
-Click [Here]([https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Infill%20Config.md](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Infill%20Config.md)) for the infill config.
+Click [Here]([https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Infill%20Config.md](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Infill%20Config.md) for the infill config.
 
 ## Assembling Of Spool Holder
 

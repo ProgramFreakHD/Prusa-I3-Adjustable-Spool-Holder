@@ -24,8 +24,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 
 ## Print Settings
 
-Click [Here](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Print%20Settings.md) for the print settings.
-
+[Click here for the print settings](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Print%20Settings.md)
 
 ## My Print Choice
 

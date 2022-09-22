@@ -24,7 +24,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 
 ## Print Settings
 
-[Click here for the print settings](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Print%20Settings.md)
+[Click here for the print settings.](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Print%20Settings.md)
 
 ## My Print Choice
 
@@ -35,7 +35,7 @@ I decided to print mine in PLA, mainly because it's cheaper and easy to print, a
 The infill config I chose for my spool holder was 20% infill. For some people they have difficulty choosing the settings so I took the liberty and made a chart with all the necessary info for you to print the spool holder. If you follow the settings I provided correctly, you should have no problem printing and assembling it later.
 (NOTE: DO NOT MESS WITH THE PARTS ORIENTATION WHEN YOU LOAD THE STL FILES INTO PRUSASLICER!)
 
-Click [Here]() for the infill config.
+[Click here for the infill config.](https://github.com/ProgramFreakHD/spool-holder/blob/main/Configs/Print%20Settings.md)
 
 ## Assembling Of Spool Holder
 

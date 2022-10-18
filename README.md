@@ -12,12 +12,6 @@ This is my shot at making a spool holder for Prusa I3 Family.
 [Aero3D Spool Holder On Thingiverse](https://www.thingiverse.com/thing:2362427)\
 [Fusion360 3D Preview](https://gmail306847.autodesk360.com/g/shares/SH56a43QTfd62c1cd9681096767b71a6baea?viewState=NoIgbgDAdAjCA0IDeAdEAXAngBwKZoC40ARXAZwEsBzAOzXjQEMyzd1C0AOAE1wHYAnACYARjAC0fPkKHiALJwDGucYwDMnPpKUBWAGycxnAGacBaAL4gAukA)
 
-## Step & STL Files
-
-[STEP Files](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/tree/master/Spool%20Holder%20STEP%20Files)\
-[STL Files](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/tree/master/Spool%20Holder%20STL%20Files)
-
-
 ## Summary
 
 After looking at so many designs by many people on thingiverse, I couldn't find a design that originally wanted, so I decided to design my own that has the functionality as I imagined. My design includes automatically centering of your spool when you adjust the spool holder, that means when you adjust from a wider spool to narrow spool, both left & right roller will move synchronized from/ to each other when you turn the knob. The main design was borrowed from Aero3D as it's a good design from the start, but lacking the auto centering of spools as I described earlier.
